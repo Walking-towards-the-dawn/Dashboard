@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Dashboard/static/css/main.b06ace26.css",
+    "main.js": "/Dashboard/static/js/main.5275fc32.js",
+    "static/media/profile.png": "/Dashboard/static/media/profile.47d344d549287823901d.png",
+    "static/media/settings.svg": "/Dashboard/static/media/settings.dcfe3e5752460bbbe3b086549dbc445d.svg",
+    "static/media/support.svg": "/Dashboard/static/media/support.09f90e94600bef3c4eb2f96759a0bae3.svg",
+    "index.html": "/Dashboard/index.html",
+    "static/media/transactions.svg": "/Dashboard/static/media/transactions.5c2a1fc0809ee57c39f3723a985cc86b.svg",
+    "static/media/news.svg": "/Dashboard/static/media/news.f25c8a754ea2dc1d38bd6ff8cde32f9e.svg",
+    "static/media/Icon.svg": "/Dashboard/static/media/Icon.e2553cb4d8fbecd874ddffa8dba4209a.svg",
+    "static/media/dashboard.svg": "/Dashboard/static/media/dashboard.c40c70ce8ab15ede060b51f5c8cf39fd.svg",
+    "static/media/performance.svg": "/Dashboard/static/media/performance.37193aaf967ba64ec26c9f543b3fca7f.svg",
+    "main.b06ace26.css.map": "/Dashboard/static/css/main.b06ace26.css.map",
+    "main.5275fc32.js.map": "/Dashboard/static/js/main.5275fc32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b06ace26.css",
+    "static/js/main.5275fc32.js"
+  ]
+}
